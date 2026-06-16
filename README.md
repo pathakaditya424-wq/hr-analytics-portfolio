@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard_preview.png)
 # 📊 HR Analytics Portfolio Project
 
 End-to-end HR analytics project built on the IBM HR Attrition dataset  
